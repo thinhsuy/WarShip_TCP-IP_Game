@@ -1,0 +1,13 @@
+username,password,name,phone,gender,birth,gamePlayed,win,lost,online
+,,,,,,,,,
+thinh,1,Nguyen Duy Thinh,234234,Female,2/1/2001,44,18,17,OFF
+quinxi,1,Nguyen Nhat Quynh,2331561,Female,11/9/2002,18,10,8,OFF
+vddung,1,Vu Duc Dung,435345,Male,19/04/2002,33,14,13,OFF
+player1,1,Naruto,203123,Male,22/2/2003,25,15,10,OFF
+player2,1,Luffy,203123,Male,22/2/2003,17,13,12,OFF
+naruto,1,Uzumaki Naruto,xxxxxx,Male,12/2/2000,0,0,0,ON
+sasuke,1,Uchiha Sasuke,xxxxx,Male,25/3/2000,0,0,0,OFF
+student,123456,NNQ,xxx,Male,11/09/2002,0,0,0,OFF
+teacher,1,NNQ,XXX,Male,11/09/2002,0,0,0,OFF
+Giaovien,123456,nnq,xxx,Male,11/09/2002,0,0,0,OFF
+Sinhvien,123456,nnq,xxx,Male,11/09/2002,0,0,0,OFF
